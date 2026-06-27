@@ -1,0 +1,12 @@
+{
+  "name": "Remix: CivicHero AI",
+  "description": "AI Powered Hyperlocal Community Problem Solver",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
