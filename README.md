@@ -6,7 +6,14 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/d1684ebf-08b7-43c2-b36e-6504dd2fcd29
+## Deployment
+
+The application is deployed on **Google Cloud Run**.
+
+Live Demo:
+
+https://civichero-ai-1038857217845.asia-southeast1.run.app
+
 
 ## Run Locally
 
@@ -106,18 +113,6 @@ Build for production
 ```bash
 npm run build
 ```
-
----
-
-## Deployment
-
-The application is deployed on **Google Cloud Run**.
-
-Live Demo:
-
-https://civichero-ai-1038857217845.asia-southeast1.run.app
-
----
 
 ## Key Functionalities
 
